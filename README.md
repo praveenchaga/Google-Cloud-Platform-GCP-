@@ -1,1 +1,2 @@
-# Google-Cloud-Platform-GCP-
+# Google-Cloud-Platform
+# Gcloud Commands
